@@ -22,7 +22,7 @@ class HeroSection extends StatelessWidget {
        Expanded(child: Column(
           children: [
             Image.asset(
-              'assets/line.gif',
+              'assets/ME.jpeg',
               height: 250,
               width: 250,
             ),   
